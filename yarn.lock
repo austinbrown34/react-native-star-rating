@@ -5557,11 +5557,11 @@ react-native-animatable@^1.2.4:
   dependencies:
     prop-types "^15.7.2"
 
-react-native-button@^2.3.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/react-native-button/-/react-native-button-2.4.0.tgz#42b487073a7ce7c54ab503f77c6ced1ab95742bf"
-  integrity sha512-4siaJlpOLeL9fAhX8VU3cnUfcGLe3E2zABDWSKxkF+NiYOd+AnKeYY29WXlV8hXhCFo+Ry7E+alrJ6zjZLTSfg==
+"react-native-button@https://github.com/austinbrown34/react-native-button":
+  version "3.0.1"
+  resolved "https://github.com/austinbrown34/react-native-button#40f0810f0b3e582cce48a9bd6bbbb3cf2e10f5c7"
   dependencies:
+    deprecated-react-native-prop-types "^2.3.0"
     prop-types "^15.5.10"
 
 react-native-vector-icons@^4.5.0:
